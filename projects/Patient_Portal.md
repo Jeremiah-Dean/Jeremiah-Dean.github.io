@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Healthcare.jpg
+image: img/Healthcarephoto.jpg
 title: "Patient Portal"
 date: 2025
 published: true
