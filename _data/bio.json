@@ -23,19 +23,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", "C++", "PHP", "Javascript", "Python", "Typescript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Kali", "RedHat", "Android", "Git/Github" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Sullivan University, Lexington, Ky",
+      "area": "Computer Information Technology (expected Summer, 2025)",
+      "studyType": "A.S.",
+      "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +43,62 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "You and Me Catering",
+      "position": "Caterer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Work at catering events at Kentucky Horsepark",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Organise and oversee catering important events at the Kentucky Horsepark",
+        "Lead, and participate in catering set up and take down"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Upwork",
+      "position": "Freelance developer",
+      "website": "https://www.upwork.com/freelancers/~0182033f6727f37a54",
+      "startDate": "2019-06-15",
+      "endDate": "present",
+      "summary": "Participate in freelance projects",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software, hardware and networking issues via upwork",
+        "Help develop software as well as pen testing for certain companies"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Sullivan University",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "",
+      "startDate": "2025-01-06",
+      "endDate": "Present",
+      "summary": "Principles of System Design Project Development",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Design web application for a patient portal for interactions with healthcare facilities",
+        "Develop project to search for safe recipes for food allergies"
       ]
     }
-  ],
-  "awards": [
+   ],
+  "certifications": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Security Pro",
+      "date": "2024",
+      "awarder": "Testout",
+      "summary": "Certification earned from taking the Testout Security Pro Exam"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Network Pro",
+      "date": "2024",
+      "awarder": "Testout",
+      "summary": "General knowledge and skills in computer networking.  Earned through passing Testout Network pro Certification Exam"
+    },
+    {
+      "title": "Certified PC Pro",
+      "date": "2024",
+      "awarder": "Testout",
+      "summary": "Showing knowledge about general hardware procedures and operations"
     }
   ],
   "references": [
