@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Healthcare.jpg
 title: "Patient Portal"
 date: 2025
 published: true
