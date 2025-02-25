@@ -15,3 +15,5 @@ summary: "The Patient Portal Web Application is intended to make communication b
 The goal of the patient portal web application is to make communication more efficient between patients and their healthcare prviders.  Patients should be able to login, and register from any device with an internet connection.  Once registered, patients can schedule and view upcoming appointments, as well as communicate with their primary care providers.
 
 Doctors would also be able to call in prescriptions and communicate with their patients in order to schedule and/or reschedule future appointments with their patients via the patient portal.
+
+<a href="https://github.com/Jeremiah-Dean/patient_portal" target="_blank">View on GitHub</a>
