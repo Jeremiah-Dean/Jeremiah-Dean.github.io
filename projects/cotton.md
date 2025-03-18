@@ -8,7 +8,7 @@ published: true
 labels:
   - Lisp
   - GitHub
-summary: "A recipe search app for those with food allergies."
+summary: "A recipe search app for those with food allergies.  Allergy Safe Recipe Search App is an application to assist those suffering with food allergies to find recipes and search through them for any potential harmful ingredients.  Users can search through recipes and save recipes to a favorites section for later viewing.  At some point I will also implement a harmful ingredients function as well."
 ---
 
 <img class="img-fluid" src="../img/cotton/new-recipe-image.jpeg">
