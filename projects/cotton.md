@@ -12,7 +12,6 @@ summary: "A recipe search app for those with food allergies.  Allergy Safe Recip
 <a href="https://github.com/Jeremiah-Dean/Allergy-Recipe-App" target="_blank">View on GitHub</a>
 ---
 
-<img class="img-fluid" src="../img/cotton/new-recipe-image.jpeg">
 
 Allergy Safe Recipe Search App is an application to assist those suffering with food allergies to find recipes and search through them for any potential harmful ingredients.  Users can search through recipes and save recipes to a favorites section for later viewing.  At some point I will also implement a harmful ingredients function as well.
 
