@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/new-recipe-image.jpeg
-title: "allergy Safe Recipe Application"
+title: "Allergy Safe Recipe Application"
 date: 2025
 published: true
 labels:
