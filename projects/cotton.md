@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/new-recipe-image.jpeg
 title: "allergy Safe Recipe Application"
 date: 2025
 published: false
