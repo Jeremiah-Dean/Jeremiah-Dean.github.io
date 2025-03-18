@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "allergy Safe Recipe Application"
+date: 2025
 published: false
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A recipe search app for those with food allergies."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
